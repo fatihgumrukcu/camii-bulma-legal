@@ -26,7 +26,7 @@ nav li {
 }
 
 nav a {
-    color: white;
+    color: white;  /* Tüm menü yazıları beyaz */
     text-decoration: none;
     font-size: 18px;
 }
